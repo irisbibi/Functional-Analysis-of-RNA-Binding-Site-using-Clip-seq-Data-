@@ -1,6 +1,4 @@
-# Functional-Analysis-of-RNA-Binding-Site-using-Clip-seq-Data-
-
-##
+# Functional-Analysis-of-RNA-Binding-Site-using-Clipseq-Data
 May 6th, 2022
 
 ### Introduction
