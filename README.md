@@ -1,8 +1,6 @@
 # Functional-Analysis-of-RNA-Binding-Site-using-Clip-seq-Data-
 
 ##
-### Sequence Motif Discovery Final Report
-
 May 6th, 2022
 
 ### Introduction
